@@ -7,10 +7,8 @@
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=drabiter&show_icons=true&hide=contribs&theme=solarized-dark"/>
 
-A professional with 7+ years of experience in utilizing "it depends" expression.
+A professional goat with 7+ years, and counting, of experience in utilizing the "it-depends" expression.
 
 🔭 I’m currently working at Gojek
 
 🌱 I’m currently learning to fix my sitting posture
-
-📫 How to reach me: [drabiter](drabiter.com)
